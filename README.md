@@ -1,2 +1,4 @@
-# hagoromo
-chalk but in c
+# Hagoromo
+Pretty tty printing C
+
+
